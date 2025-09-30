@@ -1,10 +1,10 @@
 # Hi, I'm Harish Kumar V 👋
 
 ## 🔥 GitHub Contribution Streak
-![Harish Kumar V's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarishKumarV&theme=dark&hide_border=false&fire=FF4500&ring=FFD700&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+![Harish Kumar V's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish-57-AIML-A&theme=dark&hide_border=false&fire=FF4500&ring=FFD700&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
 ## 📊 GitHub Stats
-![Harish Kumar V's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarishKumarV&show_icons=true&theme=dark&count_private=true)
+![Harish Kumar V's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-57-AIML-A&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishKumarV&layout=compact&theme=dark)
 
 ## ⚡ Technologies
