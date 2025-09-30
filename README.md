@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Harish Kumar V 👋
 
-<!--
-**Harish-57-AIML-A/Harish-57-AIML-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 GitHub Contribution Streak
+![Harish Kumar V's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarishKumarV&theme=dark&hide_border=false&fire=FF4500&ring=FFD700&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Harish Kumar V's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarishKumarV&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishKumarV&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
